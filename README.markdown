@@ -1,7 +1,8 @@
 # CoffeeScript syntax highlighting for Notepad++
 ***
 
-It's not perfect by any means, but I believe its the best one can get leveraging Notepad++'s user-defined language.
+
+Will syntax highlight files with extensions of coffee, coco, and CAKEFILE using Notepad++'s user-defined language(within its limits).
 
 
 ![An example Screenshot](/blakmatrix/CoffeeScript_notepad_UDL/raw/master/example_screenshot.png)
