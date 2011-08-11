@@ -4,7 +4,7 @@
 It's not perfect by any means, but I believe its the best one can get leveraging Notepad++'s user-defined language.
 
 
-![An example Screenshot](/example_screenshot.png)
+![An example Screenshot](/blob/master/example_screenshot.png)
 
 
 ## Deployment
