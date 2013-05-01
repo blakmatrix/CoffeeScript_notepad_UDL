@@ -5,7 +5,7 @@
 Will syntax highlight files with extensions of coffee, coco, and CAKEFILE using Notepad++'s user-defined language(within its limits).
 
 
-![An example Screenshot](/blakmatrix/CoffeeScript_notepad_UDL/raw/master/example_screenshot.png)
+![An example Screenshot](example_screenshot.png)
 
 
 ## Deployment
